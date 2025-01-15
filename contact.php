@@ -17,6 +17,7 @@
 				<li><a href="home.php">รายละเอียด</li
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อ1</li>
+				<li><a href="contact.php">040</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
